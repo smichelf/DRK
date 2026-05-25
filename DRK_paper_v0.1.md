@@ -1,7 +1,7 @@
 # Emergent Dimensionality and Metastable Oriented Structures in Minimal Discrete Relational Networks
 
-**[Stanislav Michelfeit]**  
-*[Independent researcher]*
+**Stanislav Michelfeit**  
+*Independent researcher*
 
 ---
 
@@ -628,4 +628,4 @@ estimation (random BFS sampling) would reduce this to O(N log N).
 
 ---
 
-*Manuscript prepared [25.5.2026]. Code and data available at [repository].*
+*Manuscript prepared 25.5.2026. Code and data available at https://github.com/smichelf/DRK.*
